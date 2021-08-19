@@ -1,0 +1,39 @@
+.bestbuy_container {
+  display: flex;
+  flex-direction: row;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  padding: 20px;
+}
+
+.element_styling {
+  text-align: center;
+  font-weight: bold;
+}
+
+.row_product {
+  object-fit: contain;
+  width: 100%;
+  max-height: 200px;
+  margin-right: 200px;
+  margin-left: px;
+  transition: transform 450ms;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.row_product:hover {
+  transform: scale(1.08);
+}
+
+.bg_color {
+  background-color: #5cb85cb0;
+}
+
+#round_img {
+  box-shadow: 5px 5px 10px 5px rgb(8, 8, 8);
+  transform-style: flat;
+
+  border-radius: 20%;
+}

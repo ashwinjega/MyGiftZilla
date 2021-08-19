@@ -1,0 +1,105 @@
+.Landing {
+  background-image: url("../images/jungle.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100%;
+}
+
+/* ------------------------------------------ navigation bar  ----------------------------------------*/
+
+.Navbar {
+  font: 12px "opensans-bold", sans-serif;
+  font-weight: 900;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  margin: 0 auto;
+  z-index: 100;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+.formBasicEmail {
+  border: 2;
+}
+
+/* ------------------------------------------ Landing page header ----------------------------------------*/
+
+header.page-header {
+  text-align: center;
+  color: #000;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
+
+header.page-header {
+  padding-top: 150px;
+  padding-bottom: 100px;
+}
+header.page-header .header-text .header-lead-in {
+  font-size: 22px;
+  line-height: 22px;
+  margin-bottom: 25px;
+  font-family: "Roboto", sans-serif;
+}
+header.page-header .header-text .header-heading {
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 50px;
+  margin-bottom: 25px;
+  font-family: "Roboto", sans-serif;
+}
+
+@media (min-width: 768px) {
+  header.page-header .header-text {
+    padding-top: 10px;
+    padding-bottom: 200px;
+  }
+  header.page-header .header-text .header-lead-in {
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 25px;
+    font-family: "Roboto", sans-serif;
+  }
+  header.page-header .header-text .header-heading {
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 75px;
+    margin-bottom: 50px;
+    font-family: "Roboto", sans-serif;
+  }
+}
+
+/* ------------------------------------------ Landing Page Sections  ----------------------------------------*/
+
+#howitworks {
+  background: #fff;
+  padding-top: 60px;
+  padding-bottom: 100px;
+  overflow: hidden;
+}
+
+#features {
+  background: #5cb85cb0;
+  padding-top: 5px;
+  padding-bottom: 66px;
+  overflow: hidden;
+}
+
+#aboutus {
+  background: #fff;
+  padding-bottom: 66px;
+  overflow: hidden;
+}
+
+#team {
+  background: #5cb85cb0;
+  padding-top: 96px;
+  padding-bottom: 66px;
+  overflow: hidden;
+  text-align: center;
+}

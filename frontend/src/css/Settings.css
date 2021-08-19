@@ -1,0 +1,30 @@
+#settingsCard {
+  width: 310px;
+  height: 627px;
+  padding: 15px;
+  margin-top: 40px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  box-shadow: 15px 10px 25px 0px #3fa1a9;
+  background: #fff;
+  /* background-image: url("https://github.com/OlgaKoplik/CodePen/blob/master/leaf2.png?raw=true"),
+    url("https://github.com/OlgaKoplik/CodePen/blob/master/leaf.png?raw=true"); */
+  background-repeat: no-repeat, no-repeat;
+  background-position: 120% -5%, 200% -40%;
+  background-size: 40%, 80%;
+  animation: open 0.5s;
+}
+
+#settingsForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#settingsFormRow {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+}

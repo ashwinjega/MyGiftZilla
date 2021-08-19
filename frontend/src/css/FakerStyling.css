@@ -1,0 +1,48 @@
+.backgroundDiv {
+  background-color: #ffff;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card {
+  box-shadow: 15px 10px 25px 0px #3fa1a9;
+}
+
+.pageHeaders {
+  font-family: Papyrus, sans-serif, "Times New Roman", serif;
+  font-size: 30px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 900;
+  letter-spacing: 1.5px;
+  line-height: 26.4px;
+  padding-top: 80px;
+  text-align: center;
+}
+
+.mapDiv {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  overflow-y: hidden;
+  overflow-x: hidden;
+  padding: 20px;
+  text-align: center;
+}
+
+.item_title {
+  text-align: center;
+  font-family: "Times New Roman", serif;
+  font-size: 17px;
+  margin-top: 20px;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+
+.item_price {
+  text-align: center;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

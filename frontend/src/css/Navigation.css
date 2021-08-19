@@ -1,0 +1,17 @@
+.navigation {
+  font: 14px "opensans-bold", sans-serif;
+  font-weight: 900;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  /* text-transform: uppercase; */
+  letter-spacing: 1.5px;
+  margin: 0 auto;
+  z-index: 100;
+  position: relative;
+  left: 0;
+  top: 0;
+  bottom: 50;
+  background-image: url("../images/jungle_cut.png");
+  background-size: cover;
+}

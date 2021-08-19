@@ -1,0 +1,10 @@
+.howitworks h2 {
+  text-align: center;
+  font-family: Fantasy, Copperplate, Papyrus, sans-serif;
+  padding-bottom: 50px;
+}
+
+#cardImage {
+  height: 100px;
+  width: 100px;
+}

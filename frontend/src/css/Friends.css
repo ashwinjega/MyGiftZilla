@@ -1,0 +1,27 @@
+.cartButton {
+  font: 14px "opensans-bold", sans-serif;
+  font-weight: 900;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  margin: 10px;
+}
+
+.viewProducts {
+  font: 14px "opensans-bold", sans-serif;
+  font-weight: 900;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  margin: 10px;
+}
+
+.checkout {
+  font: 14px "opensans-bold", sans-serif;
+  font-weight: 900;
+  width: 95%;
+  height: auto;
+  text-align: center;
+  margin: 10px;
+  justify-content: center;
+}

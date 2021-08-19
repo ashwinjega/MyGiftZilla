@@ -1,0 +1,10 @@
+.features h2 {
+  text-align: center;
+  font-family: Fantasy, Copperplate, Papyrus, sans-serif;
+  padding-bottom: 5px;
+}
+
+.cards {
+  width: 18rem;
+  height: 300px;
+}

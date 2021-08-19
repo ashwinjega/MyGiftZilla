@@ -1,0 +1,35 @@
+#ashwin {
+  width: 171px;
+  height: 180px;
+}
+
+#jenny {
+  width: 171px;
+  height: 180px;
+}
+
+#shay {
+  width: 171px;
+  height: 180px;
+}
+
+#carlos {
+  width: 171px;
+  height: 180px;
+}
+
+#names {
+  margin: 3px;
+  text-align: center;
+}
+
+#names {
+  padding-top: 10px;
+  text-align: center;
+  font-family: Arial, Baskerville, monospace;
+}
+
+#teamQuotes {
+  text-align: center;
+  font-family: Arial, Baskerville, monospace;
+}

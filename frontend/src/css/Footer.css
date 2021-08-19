@@ -1,0 +1,17 @@
+footer {
+  text-align: center;
+}
+
+#sd {
+  font-family: Baskerville, Arial, monospace;
+  padding-top: 20px;
+}
+hr {
+  border: 2px solid green;
+  border-radius: 2px;
+}
+
+#ucf {
+  height: 40px;
+  width: 40px;
+}
